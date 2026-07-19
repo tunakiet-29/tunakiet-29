@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tuan Kiet 👋</h1>
 
-<!--
-**tunakiet-29/tunakiet-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend Developer • React Enthusiast • Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Information Technology Student
+- 💻 Passionate about building modern, responsive web applications
+- 🌱 Currently learning React ecosystem and frontend best practices
+- 🎯 Looking for a Frontend Developer Internship
+- 📍 Ho Chi Minh City, Vietnam
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 🌐 Personal Portfolio
+- ☀️ Weather App
+- 🎬 Movie App *(Coming Soon)*
+  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://my-portfolio-sandy-five-17.vercel.app/
+- 📧 Email: ktuna.silver@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tunakiet
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tunakiet-29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunakiet-29&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
